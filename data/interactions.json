@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button"
+  },
+  {
+    "type": "click",
+    "elementId": "test-button2"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button"
+  }
+]
