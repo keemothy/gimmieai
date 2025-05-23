@@ -50,5 +50,297 @@
   {
     "type": "click",
     "elementId": "next-button"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button3000"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button3000"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "next-button5050!!!!"
+  },
+  {
+    "type": "click",
+    "elementId": "product-undefined"
+  },
+  {
+    "type": "click",
+    "elementId": "product-undefined"
+  },
+  {
+    "type": "click",
+    "elementId": "product-1"
+  },
+  {
+    "type": "click",
+    "elementId": "product-2"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Airpods Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Airpods Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Macbook Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product-iPhone 16 Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product-iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "product-iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "product-iPhone 16 Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product-iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "product-Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "product- Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "product: Macbook Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "product: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy product button: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy product BUTTON: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy product BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy product BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Hover IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Hover IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE: Airpods Pro"
   }
 ]
