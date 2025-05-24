@@ -36,7 +36,7 @@ function Products({
           onClick={(e) => handleClick(e.target.dataset.product)}
           onMouseEnter={(e) => handleHover(e.target.dataset.product)}
         >
-          Check out the {item} here now for {price}! It has {clicks} reviews!
+          Check out the {item} here now for {price}!
         </button>
       </div>
     </div>

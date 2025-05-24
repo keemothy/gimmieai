@@ -31,13 +31,13 @@ app.get("/api/data", (req, res) => {
     }
 
     const interactions = JSON.parse(data);
-
     const jsonData = {
       userClicks: {},
       userHovers: {},
       userSearches: {}
     };
 
+    // init with 0 bc errors wehn accessing non init jsondata value
     for (let i = 0; i < interactions.length; i++) {
       currElem = interactions[i];
 
@@ -90,6 +90,7 @@ app.post("/api/interactions", (req, res) => {
 });
 
 // Start the server
+// change port if server fails to load
 app.listen(PORT, () => {
   console.log("Listening on port " + PORT);
 });

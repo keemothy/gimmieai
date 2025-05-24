@@ -2,16 +2,14 @@ import { useState, useRef } from "react";
 
 import { sendInteraction } from "../services/api";
 
-import Products from "./products";
+import Products from "../components/products";
 
-// import Barcharts from "./barcharts";
 import "../Interactions.css";
 
-// Structure --> Interaction --> Products (main display of the items)
-// Interaction.jsx handles user interactions and sends to backend (clicks, hovers, searches)
-// Products.jsx handles displaying products for users to interact with (CSS --> images, buttons, searchbars)
-
-function Interactions() {
+// add similar displays from product.jsx as a concept model
+// later add feature to track top products bought and display here
+// use interactions.jsx but only display few products to mimic "top" picks
+function StaffPicks() {
   // state vars to track user interactions (clicks, hovers, searches)
   // add more if needed (maybe want to add timestamps to track user interaction frequencies)
   const [clicks, setClicks] = useState(0);
@@ -43,9 +41,6 @@ function Interactions() {
     }
   }
 
-  // sample products to display (use api to fetch live data in the future)
-  // make sure to add names and price tag values
-  // maybe add use effect hook later
   const imageList = [
     "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
     "https://static.independent.co.uk/2024/11/07/11/Macbook-pro-m4-review-hero-indybest.jpg",
@@ -54,15 +49,8 @@ function Interactions() {
     "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-compare-series10-202409_FMT_WHH?wid=236&hei=278&fmt=jpeg&qlt=90&.v=eEpjZGlsbzI4YmtuR2pKQXNDTzZ5NksyNll6YVpDWW5Sb2NQeVhEb2c4YnRYMGFMeUFmeGdOTW9BOFNQQTNYbW5OR2k0VGM3MGhVSUIyTU84S2s0S3JvTjVtTkZYU2oxSWxVMzJ2TGNPV0pFc2N2TkZPbGlIYklGV3NtYzBUVXg",
     "https://m.media-amazon.com/images/I/71tGix67QML._AC_UY1000_.jpg",
     "https://m.media-amazon.com/images/I/710exCeNPJL._AC_UF894,1000_QL80_.jpg",
-    "https://m.media-amazon.com/images/I/61UgZSYRllL.jpg",
-    "https://m.media-amazon.com/images/I/51ySu55JzAL.jpg",
-    "https://mobileimages.lowes.com/productimages/21450016-3c7c-42cd-a0fd-53dff0522bb6/61776841.jpg",
-    "https://images.philips.com/is/image/philipsconsumer/b9803f34eb74494582e9b014012a3fa6?$pnglarge$&wid=960",
-    "https://target.scene7.com/is/image/Target/GUEST_9be1ce6e-81c7-4415-ba9f-58e4569ae0c0?wid=300&hei=300&fmt=pjpeg",
   ];
 
-  // put the images with the products and add prices
-  // use this for map func later for products
   const productList = [
     { id: 1, item: "Airpods Pro", price: 249, image: imageList[0] },
     { id: 2, item: "Macbook Pro", price: 1999, image: imageList[1] },
@@ -71,35 +59,11 @@ function Interactions() {
     { id: 5, item: "Apple Watch Series 10", price: 200, image: imageList[4] },
     { id: 6, item: "Stephen Curry Jersey", price: 120, image: imageList[5] },
     { id: 7, item: "Amazon Echo", price: 100, image: imageList[6] },
-    { id: 8, item: "Sony XM4 Headphones", price: 240, image: imageList[7] },
-    { id: 9, item: "Logitech G Pro Mouse", price: 120, image: imageList[8] },
-    { id: 10, item: "Leather Office Chair", price: 134, image: imageList[9] },
-    { id: 11, item: "Phillips LCD Monitor", price: 120, image: imageList[10] },
-    { id: 12, item: "Ring Doorbell 1080p", price: 85, image: imageList[11] },
   ];
 
   return (
-    // TODO:
-    // also try to work on some sample data to test the interactions like a image for a product to see if user hovers over it or to see if user clicks on it
-    // maybe try adding a search bar to see if user queries for something <-- concept model rather than integration of real data <-- log these things to the backend
-    // use map to loop thru elements above into products
-
     <div>
-      {/* moved search feature here since it bugged out in the nav bar */}
-      <form onSubmit={handleSearch} className="search-form">
-        <input
-          className="search-input"
-          type="text"
-          placeholder="Search here..."
-          value={searches}
-          onChange={(e) => setSearches(e.target.value)}
-        />
-        <button type="submit" className="search-button">
-          Search
-        </button>
-      </form>
-
-      {/* use product.jsx component to display the products and also track the user interactions to send back */}
+        <h2 className="staff"> CHECK OUT THESE TOP PRODUCTS!</h2>
       <div className="card-grid">
         {productList.map((product) => (
           <Products
@@ -119,4 +83,4 @@ function Interactions() {
   );
 }
 
-export default Interactions;
+export default StaffPicks;

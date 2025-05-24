@@ -76,3 +76,11 @@ body {
 .btn:focus {
   background: hsl(200, 50%, 60%);
 }
+
+.staff {
+  text-align: center;
+}
+
+.search-form {
+  text-align: center;
+}
