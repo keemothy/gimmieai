@@ -8,8 +8,8 @@ This project captures and processes user interactions (clicks, hovers, etc.) usi
 ## Tech Stack
 - React.js
 - Node.js + Express
-- Charting Library (e.g., Chart.js or Recharts)
-- JSON file (or local database)
+- Charting Library (Chart.js)
+- JSON file (local database)
 
 ## Features
 - Captures user clicks, hovers, and searches on UI elements
@@ -74,5 +74,6 @@ root/
 ```
 
 ## Walkthrough Video
-📽️ [Link to Video Walkthrough](#)  
-*(Briefly explain your code structure, architecture decisions, and development approach.)*
+📽️ [Link to Project Website Demo](https://youtu.be/d66cFdZIcak) > Website Demo ONLY
+
+📽️ [Link to Code Structure Walkthrough](https://youtu.be/vfZbWQSn51o) > Code, Design Architecture, Implementation ONLY
