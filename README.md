@@ -74,6 +74,6 @@ root/
 ```
 
 ## Walkthrough Video
-📽️ [Link to Project Website Demo](https://youtu.be/d66cFdZIcak) > Website Demo ONLY
-
 📽️ [Link to Code Structure Walkthrough](https://youtu.be/vfZbWQSn51o) > Code, Design Architecture, Implementation ONLY
+
+📽️ [Link to Project Website Demo](https://youtu.be/d66cFdZIcak) > Website Demo ONLY
