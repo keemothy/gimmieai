@@ -33,14 +33,14 @@ npm install
 ```bash
 cd server
 npm install
-node server.js
+node server.js OR npm start
 ```
 
 ### Start the frontend:
 ```bash
 cd client
 npm install
-npm run dev
+npm run dev OR npm start
 ```
 
 ## Additional Packages installed if needed
