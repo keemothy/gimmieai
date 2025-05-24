@@ -90,7 +90,7 @@ function Interactions() {
         <input
           className="search-input"
           type="text"
-          placeholder="Search here..."
+          placeholder="Search products here..."
           value={searches}
           onChange={(e) => setSearches(e.target.value)}
         />

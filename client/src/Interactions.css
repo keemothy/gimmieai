@@ -11,7 +11,7 @@ body {
 }
 
 .card {
-  background: rgba(42,76,89,255);
+  background: rgba(42, 76, 89, 255);
   border: 1px solid #777;
   border-radius: 0.25rem;
   overflow: hidden;
@@ -30,22 +30,22 @@ body {
 }
 
 .card-header.card-image {
-    overflow:hidden;
-    padding: 0;
+  overflow: hidden;
+  padding: 0;
 }
 
 .card-header.card-image > img {
-    display:block;
-    width: 100%;
-    max-height: 200px;
-    aspect-ratio: 16/9;
-    object-fit: cover;
-    object-position: center;
-    transition: 200ms transform ease-in-out;
+  display: block;
+  width: 100%;
+  max-height: 200px;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  object-position: center;
+  transition: 200ms transform ease-in-out;
 }
 
 .card:hover > .card-header.card-image > img {
-    transform: scale(1.025);
+  transform: scale(1.025);
 }
 
 .card-body {
@@ -59,7 +59,7 @@ body {
   margin-top: 0.5rem;
   padding: 1rem;
   padding-top: 0;
-  text-align: center;;
+  text-align: center;
 }
 
 .btn {
@@ -83,4 +83,12 @@ body {
 
 .search-form {
   text-align: center;
+  margin: 0.5rem;
+  border-radius: 0.25em;
+}
+
+.search-button {
+  border-radius: 0.25em;
+  border: none;
+  font-size: 1rem;
 }

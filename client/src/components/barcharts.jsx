@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import { requestInteraction } from "../services/api";
 import { Bar } from "react-chartjs-2";
 
+import "../barcharts.css";
+
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -46,15 +48,24 @@ function Barcharts() {
 
   // console.log(interacts)
 
+  // pedrotech generating colors guide for barcharts
+  const generateColors = (count) => {
+    return Array.from(
+      { length: count },
+      () => `hsl(${Math.floor(Math.random() * 360)}, 70%, 60%)`
+    );
+  };
 
   // make a barchart for each of the individual elkements
   // grabbing data for clicked elements
   let clickedLabels = [];
   let clickedCounts = [];
+  let colorsC = [];
 
   if (interacts && interacts.userClicks) {
     clickedLabels = Object.keys(interacts.userClicks);
     clickedCounts = Object.values(interacts.userClicks);
+    colorsC = generateColors(clickedLabels.length);
   }
 
   const clickBar = {
@@ -63,8 +74,8 @@ function Barcharts() {
       {
         label: "Clicked Elements",
         data: clickedCounts,
-        backgroundColor: "rgba(255, 99, 132, 0.3)",
-        borderColor: "rgba(54, 162, 235, 1)",
+        backgroundColor: colorsC,
+        borderColor: "rgb(0, 0, 0)",
         borderWidth: 1,
       },
     ],
@@ -73,10 +84,12 @@ function Barcharts() {
   // grabbing data for hovered elements
   let hoverLabels = [];
   let hoverCounts = [];
+  let colorsH = [];
 
   if (interacts && interacts.userHovers) {
     hoverLabels = Object.keys(interacts.userHovers);
     hoverCounts = Object.values(interacts.userHovers);
+    colorsH = generateColors(hoverLabels.length);
   }
   const hoverBar = {
     labels: hoverLabels,
@@ -84,8 +97,8 @@ function Barcharts() {
       {
         label: "Hovered Elements",
         data: hoverCounts,
-        backgroundColor: "rgba(255, 99, 132, 0.3)",
-        borderColor: "rgba(54, 162, 235, 1)",
+        backgroundColor: colorsH,
+        borderColor: "rgb(0, 0, 0)",
         borderWidth: 1,
       },
     ],
@@ -94,10 +107,12 @@ function Barcharts() {
   // grabbing data for search queries
   let searchLabels = [];
   let searchCounts = [];
+  let colorsS = [];
 
   if (interacts && interacts.userSearches) {
     searchLabels = Object.keys(interacts.userSearches);
     searchCounts = Object.values(interacts.userSearches);
+    colorsS = generateColors(searchLabels.length);
   }
 
   const searchBar = {
@@ -106,12 +121,54 @@ function Barcharts() {
       {
         label: "Searched Elements",
         data: searchCounts,
-        backgroundColor: "rgba(255, 99, 132, 0.3)",
-        borderColor: "rgba(54, 162, 235, 1)",
+        backgroundColor: colorsS,
+        borderColor: "rgb(0, 0, 0)",
         borderWidth: 1,
       },
     ],
   };
+
+  // const options = {
+  //   responsive: true,
+  //   maintainAspectRatio: true};
+
+  // look into chart.js notations for options to change chart properties like color and font
+  const options = {
+  responsive: true,
+  maintainAspectRatio: true,
+  plugins: {
+    legend: {
+      position: "top",
+      labels: {
+        color: "black",
+        font: {
+          weight: "bold",
+          size: 20,
+        }
+      }
+    }
+  },
+  scales: {
+    x: {
+      ticks: {
+        color: "black",
+        font: {
+          size: 14,
+          weight: "bold",
+        }
+      }
+    },
+    y: {
+      ticks: {
+        color: "black",
+        font: {
+          size: 12,
+        }
+      }
+    }
+  }
+};
+
 
   // make a conditional rendering func to render specific bar graph
   // click respective button to render respective bar graph
@@ -121,26 +178,26 @@ function Barcharts() {
 
   function handleBars() {
     if (currBar === "clicks") {
-      return <Bar options={{ respnsive: true }} data={clickBar} />;
+      return <Bar options={options} data={clickBar} />;
     }
     if (currBar === "hovers") {
-      return <Bar options={{ respnsive: true }} data={hoverBar} />;
+      return <Bar options={options} data={hoverBar} />;
     }
     if (currBar === "searches") {
-      return <Bar options={{ respnsive: true }} data={searchBar} />;
+      return <Bar options={options} data={searchBar} />;
     }
   }
 
   return (
     <div>
       <div className="barcharts">
-        <button onClick={() => setCurrBar("clicks")}>
+        <button onClick={() => setCurrBar("clicks")} className="btn btn-border-pop">
           Clicked Elements Analytics
         </button>
-        <button onClick={() => setCurrBar("hovers")}>
+        <button onClick={() => setCurrBar("hovers")} className="btn btn-border-pop">
           Hovered Elements Analytics
         </button>
-        <button onClick={() => setCurrBar("searches")}>
+        <button onClick={() => setCurrBar("searches")} className="btn btn-border-pop">
           Searched Queries Analytics
         </button>
       </div>

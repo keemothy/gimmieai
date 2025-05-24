@@ -1,1056 +1,11 @@
 [
   {
-    "type": "click",
-    "elementId": "test-button"
-  },
-  {
-    "type": "click",
-    "elementId": "test-button"
-  },
-  {
-    "type": "click",
-    "elementId": "test-button"
-  },
-  {
-    "type": "click",
-    "elementId": "test-button"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "airpods"
-  },
-  {
-    "type": "search",
-    "elementId": "apple headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "ipad pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "headphones"
-  },
-  {
-    "type": "search",
-    "elementId": "apple airpods"
-  },
-  {
-    "type": "search",
-    "elementId": "appleTEST QUERY"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENTAirpods Max"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
     "type": "hover",
     "elementId": "Product IMAGE ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: iphone 17"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": null,
-    "query": "Search FORM ELEMENT: computer monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "search",
-    "elementId": null
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: test search"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: air pods"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: ipad pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: go pro generation 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
@@ -1059,34 +14,6 @@
   {
     "type": "hover",
     "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
@@ -1097,24 +24,184 @@
     "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
   },
   {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: funko pops"
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: ipad pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: sony headphones"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: iphone 16 max"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: monitor arm"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: stephen curry jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
     "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
   },
   {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
+  },
+  {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
   },
   {
     "type": "hover",
     "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Ring Doorbell 1080p"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Ring Doorbell 1080p"
   },
   {
     "type": "hover",
@@ -1122,7 +209,167 @@
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "click",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: iphone 16 max"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: beats pro"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: ipad air"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: ipad air"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: ipad air"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: apple watch"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: apple watch"
+  },
+  {
+    "type": "search",
+    "elementId": "Search FORM ELEMENT: apple watch"
   },
   {
     "type": "hover",
@@ -1134,19 +381,15 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
@@ -1154,6 +397,282 @@
   },
   {
     "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
   },
   {
@@ -1162,15 +681,7 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: ipad pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
   },
   {
     "type": "hover",
@@ -1178,7 +689,111 @@
   },
   {
     "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
+  },
+  {
+    "type": "hover",
     "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
   },
   {
     "type": "hover",
@@ -1190,35 +805,11 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
   },
   {
     "type": "hover",
@@ -1226,223 +817,15 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Macbook Pro"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
     "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
     "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: funko pops"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
   },
   {
     "type": "hover",
@@ -1454,15 +837,31 @@
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Ring Doorbell 1080p"
+    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+    "elementId": "Buy BUTTON ELEMENT: Apple Watch Series 10"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
   },
   {
     "type": "hover",
@@ -1474,6 +873,22 @@
   },
   {
     "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
+  },
+  {
+    "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
   },
   {
@@ -1482,11 +897,7 @@
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
@@ -1494,119 +905,11 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: Ipad pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
@@ -1614,31 +917,7 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
   },
   {
     "type": "hover",
@@ -1646,31 +925,7 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
@@ -1678,27 +933,7 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
-  },
-  {
-    "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
-  },
-  {
-    "type": "click",
-    "elementId": "Buy BUTTON ELEMENT: iPhone 16 Pro"
+    "elementId": "Product IMAGE ELEMENT: Stephen Curry Jersey"
   },
   {
     "type": "hover",
@@ -1706,11 +941,51 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Phillips LCD Monitor"
+    "elementId": "Buy BUTTON ELEMENT: Amazon Echo"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Ring Doorbell 1080p"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Amazon Echo"
   },
   {
     "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
@@ -1719,22 +994,6 @@
   {
     "type": "hover",
     "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
@@ -1746,11 +1005,35 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Sony XM4 Headphones"
   },
   {
     "type": "hover",
@@ -1758,39 +1041,15 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+    "elementId": "Product IMAGE ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: iPad Pro"
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Airpods Pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: ipad pro"
-  },
-  {
-    "type": "search",
-    "elementId": "Search FORM ELEMENT: ipad pro"
-  },
-  {
-    "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+    "elementId": "Product IMAGE ELEMENT: iPhone 16 Pro"
   },
   {
     "type": "hover",
@@ -1802,15 +1061,39 @@
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
   },
   {
     "type": "hover",
-    "elementId": "Product IMAGE ELEMENT: iPad Air 5"
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: iPad Air 5"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Leather Office Chair"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
   },
   {
     "type": "hover",
@@ -1818,6 +1101,14 @@
   },
   {
     "type": "hover",
-    "elementId": "Buy BUTTON ELEMENT: Logitech G Pro Mouse"
+    "elementId": "Product IMAGE ELEMENT: Sony XM4 Headphones"
+  },
+  {
+    "type": "hover",
+    "elementId": "Buy BUTTON ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Macbook Pro"
   }
 ]

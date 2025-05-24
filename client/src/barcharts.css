@@ -1,0 +1,20 @@
+.barcharts {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  margin: 1rem;
+}
+
+.btn {
+  color: #000000;
+  padding: 0.5em 1em;
+  position: relative;
+  cursor: pointer;
+}
+
+.btn:hover {
+    background-color: lightblue;
+}
