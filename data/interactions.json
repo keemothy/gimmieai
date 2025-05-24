@@ -1110,5 +1110,9 @@
   {
     "type": "hover",
     "elementId": "Product IMAGE ELEMENT: Macbook Pro"
+  },
+  {
+    "type": "hover",
+    "elementId": "Product IMAGE ELEMENT: Apple Watch Series 10"
   }
 ]
