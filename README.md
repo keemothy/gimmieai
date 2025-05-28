@@ -1,5 +1,3 @@
-Round 2 Technical Project
-
 # 📊 Data Interaction and Visualization
 
 ## Overview
